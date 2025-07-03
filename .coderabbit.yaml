@@ -8,17 +8,7 @@ language: "en-US"
 early_access: false
 
 # Pilot-specific tone instructions
-tone_instructions: |
-  You are participating in a CodeRabbit AI pilot program evaluation.
-  Provide thorough, constructive feedback that helps demonstrate your capabilities.
-  Focus on:
-  - Code quality and best practices
-  - Security considerations
-  - Performance implications
-  - Maintainability improvements
-  - Learning opportunities for developers
-  
-  Be detailed in your explanations to help evaluate the tool's effectiveness.
+tone_instructions: "CodeRabbit pilot evaluation. Provide thorough, constructive feedback focusing on code quality, security, performance, and maintainability. Be detailed to demonstrate AI capabilities."
 
 reviews:
   profile: "assertive"  # More comprehensive reviews for pilot evaluation
