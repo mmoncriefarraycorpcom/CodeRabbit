@@ -30,7 +30,6 @@ reviews:
   auto_review:
     enabled: true
     drafts: false
-    base_branches: ["main", "master", "develop", "pilot"]
   
   # Path-specific instructions for different types of code
   path_instructions:
@@ -122,13 +121,4 @@ reviews:
     - "!**/dist/**"
 
 chat:
-  auto_reply: true
-
-# Additional settings for pilot evaluation
-enable_free_tier: false
-tools:
-  github:
-    enabled: true
-  pullrequest:
-    enable_auto_summary: true
-    enable_walkthrough: true 
+  auto_reply: true 
