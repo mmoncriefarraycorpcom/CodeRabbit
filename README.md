@@ -1,6 +1,8 @@
-# CodeRabbit AI Pilot Program Repository
+# CodeRabbit AI Pilot Program
 
-This repository serves as the staging and testing environment for evaluating CodeRabbit AI as an automated code review tool.
+*Last updated: January 2025*
+
+This repository contains the complete infrastructure for evaluating CodeRabbit AI as part of our code review enhancement pilot program.
 
 ## 🎯 Pilot Program Objectives
 
